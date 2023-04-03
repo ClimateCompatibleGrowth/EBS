@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EbsGuiConfig>
+<EditQuestionairColumns>last</EditQuestionairColumns>
+<CheckRules>
+	<GrowthRule priority="P1" factor="90"/>
+	<GrowthRule priority="P2" factor="9"/>
+	<GrowthRule priority="P3" factor="1.5"/>
+</CheckRules>
+</EbsGuiConfig>
